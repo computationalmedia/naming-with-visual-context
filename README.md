@@ -13,4 +13,4 @@ We have released a catalogue ([csv](/basic_level_catalogue.csv), [pickle](/basic
 
 We have also released our training datasets and our testing dataset (SBU-148K), which are derived from the [SBU dataset](http://vision.cs.stonybrook.edu/~vicente/sbucaptions/). Our release consists of flickr ids, matching those in the SBU dataset, paired with the filtered list of nouns extracted from the image caption. The dataset is available [here](/word_prediction_benchmark.zip) as an archive containing pickle files.
 
-For comparison purposes a full set of results is available [here](/comparison_dataset.zip). This dataset also includes: the most frequent noun for each synset, synset detections for the testing set and the results used to generate Figure 3 (in [the paper](/basic_level.pdf)).
+For comparison purposes a full set of results is available [here](/comparison_dataset.7z). This dataset also includes: the most frequent noun for each synset, synset detections for the testing set and the results used to generate Figure 3 (in [the paper](/basic_level.pdf)).
