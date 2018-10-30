@@ -1,0 +1,784 @@
+index,nouns,ss_id,ss_name
+0,"[u'musician', u'person']",n10599806,singer.n.01
+1,"[u'plant', u'strawberry']",n12630763,beach_strawberry.n.01
+2,"[u'bird', u'swan']",n01858845,pen.n.05
+3,"[u'pot', u'toilet', u'unit', u'whole']",n03993053,potty_seat.n.01
+4,"[u'herb', u'plant']",n12515711,chickpea.n.02
+5,"[u'bird', u'swan']",n01858780,cob.n.04
+6,"[u'bush', u'plant', u'rose', u'shrub']",n12620969,banksia_rose.n.01
+7,"[u'chair', u'seat']",n04576002,wheelchair.n.01
+8,"[u'plant', u'tulip']",n12454793,cottage_tulip.n.01
+9,"[u'bird', u'swan']",n01858281,coscoroba.n.01
+10,"[u'fence', u'weir']",n04571686,weir.n.02
+11,"[u'flora', u'grass', u'herb', u'plant']",n12105125,wheatgrass.n.01
+12,"[u'animal', u'cat', u'cub', u'lion']",n01322898,lion_cub.n.01
+13,"[u'bird', u'duck']",n01847407,dabbling_duck.n.01
+14,"[u'barn', u'building', u'structure']",n02793495,barn.n.01
+15,"[u'plant', u'rose']",n12621945,cherokee_rose.n.01
+16,"[u'plant', u'tulip']",n12454556,lady_tulip.n.01
+17,"[u'plant', u'tulip']",n12454949,darwin_tulip.n.01
+18,"[u'bird', u'chicken']",n01793715,orpington.n.01
+19,"[u'fern', u'plant']",n13199717,christmas_fern.n.01
+20,"[u'construction', u'dome', u'stadium', u'structure']",n03220692,dome.n.03
+21,"[u'bird', u'heron']",n02012185,least_bittern.n.01
+22,"[u'bird', u'swan']",n01859325,whooper.n.02
+23,"[u'musician', u'person']",n10732010,trumpeter.n.01
+24,"[u'cat', u'tiger']",n02129837,bengal_tiger.n.01
+25,"[u'bird', u'duck']",n01847978,black_duck.n.01
+26,"[u'animal', u'bird', u'swan']",n01858441,swan.n.01
+27,"[u'bird', u'duck']",n01852671,muscovy_duck.n.01
+28,"[u'animal', u'female', u'hen']",n01321123,hen.n.04
+29,"[u'bed', u'bottom', u'formation']",n09376526,ocean_floor.n.01
+30,"[u'food', u'fruit', u'orange', u'produce']",n07747607,orange.n.01
+31,"[u'building', u'castle', u'home', u'house']",n03878066,palace.n.01
+32,"[u'man', u'person']",n10656120,stiff.n.01
+33,"[u'color', u'colour', u'pink', u'rose']",n04971313,rose.n.03
+34,"[u'bird', u'heron']",n02011805,american_bittern.n.01
+35,"[u'plant', u'tree']",n12402840,india-rubber_tree.n.01
+36,"[u'barn', u'building', u'construction', u'structure']",n03123809,cowbarn.n.01
+37,"[u'businessman', u'person']",n09840217,baron.n.03
+38,"[u'bar', u'rail', u'unit', u'whole']",n04046590,rail.n.04
+39,"[u'bird', u'heron']",n02011016,yellow-crowned_night_heron.n.01
+40,"[u'building', u'hospital']",n03540595,hospital.n.01
+41,"[u'bird', u'heron']",n02011460,bittern.n.01
+42,"[u'bar', u'table']",n04366033,sushi_bar.n.01
+43,"[u'bird', u'duck']",n01847253,diving_duck.n.01
+44,"[u'flora', u'plant', u'tulip']",n12454159,tulip.n.01
+45,"[u'building', u'home', u'house', u'structure']",n03166514,deanery.n.01
+46,"[u'fruit', u'orange']",n07748753,bitter_orange.n.02
+47,"[u'truck', u'van']",n03896419,passenger_van.n.01
+48,"[u'animal', u'deer', u'fawn', u'young']",n02430830,fawn.n.02
+49,"[u'fall', u'formation', u'side', u'steep']",n09445008,steep.n.01
+50,"[u'building', u'construction', u'house', u'structure']",n03121298,courthouse.n.02
+51,"[u'animal', u'bird', u'swan', u'young']",n01858906,cygnet.n.01
+52,"[u'bird', u'duck']",n01852142,wood_duck.n.01
+53,"[u'fall', u'formation', u'side', u'slope']",n09265620,descent.n.05
+54,"[u'building', u'home', u'house']",n03781244,monastery.n.01
+55,"[u'truck', u'van']",n03977966,police_van.n.01
+56,"[u'plant', u'pumpkin']",n12158443,pumpkin.n.01
+57,"[u'flora', u'palm', u'plant', u'tree']",n12582665,sago_palm.n.01
+58,"[u'person', u'student']",n10508710,reader.n.01
+59,"[u'plant', u'tomato']",n12906214,plum_tomato.n.01
+60,"[u'musician', u'performer', u'person']",n09903501,cellist.n.01
+61,"[u'bird', u'turkey']",n01794344,turkey_cock.n.01
+62,"[u'building', u'hall', u'home', u'house']",n04305323,stately_home.n.01
+63,"[u'lily', u'plant']",n12427757,easter_lily.n.01
+64,"[u'orange', u'tree']",n12708941,bergamot.n.01
+65,"[u'desk', u'furniture', u'table']",n03179701,desk.n.01
+66,"[u'bird', u'duck']",n01849157,pintail.n.01
+67,"[u'building', u'home', u'house', u'structure']",n04413969,terraced_house.n.01
+68,"[u'blond', u'blonde', u'person', u'someone']",n10718952,towhead.n.01
+69,"[u'building', u'home', u'house']",n03007297,chapterhouse.n.02
+70,"[u'animal', u'cattle', u'male']",n02403231,bullock.n.02
+71,"[u'animal', u'cat', u'cub', u'tiger']",n01323068,tiger_cub.n.01
+72,"[u'flora', u'plant', u'tree']",n12363301,dillenia.n.01
+73,"[u'bird', u'swan']",n01859852,bewick's_swan.n.01
+74,"[u'flora', u'plant', u'tulip']",n12454705,tulipa_gesneriana.n.01
+75,"[u'formation', u'side', u'slope']",n09436444,ski_slope.n.01
+76,"[u'building', u'home', u'house']",n04115256,row_house.n.01
+77,"[u'person', u'student']",n09936892,college_student.n.01
+78,"[u'ball', u'bowl']",n02882301,bowling_ball.n.01
+79,"[u'bush', u'flora', u'plant', u'rose']",n12621619,sweetbrier.n.01
+80,"[u'bird', u'chicken']",n01793340,spring_chicken.n.02
+81,"[u'bird', u'swan']",n01859190,mute_swan.n.01
+82,"[u'desk', u'furniture', u'table']",n04608329,writing_desk.n.02
+83,"[u'truck', u'van']",n02871314,bookmobile.n.01
+84,"[u'grandma', u'grandmother', u'person']",n10142747,grandma.n.01
+85,"[u'blond', u'blonde', u'person', u'whole']",n10439373,platinum_blond.n.01
+86,"[u'animal', u'bull', u'cattle', u'young']",n02403820,bullock.n.01
+87,"[u'bird', u'heron']",n02009229,little_blue_heron.n.01
+88,"[u'brown', u'chocolate', u'coffee']",n04972451,chocolate.n.03
+89,"[u'baby', u'child', u'kid']",n10135129,godson.n.01
+90,"[u'building', u'pub', u'tavern']",n02696165,alehouse.n.01
+91,"[u'bird', u'swan']",n01860002,trumpeter.n.04
+92,"[u'line', u'railroad', u'railway', u'ride']",n04102406,roller_coaster.n.02
+93,"[u'building', u'home', u'house', u'structure']",n03428090,gatehouse.n.01
+94,"[u'daffodil', u'plant']",n12421683,daffodil.n.01
+95,"[u'flora', u'grass', u'plant']",n12121033,plume_grass.n.01
+96,"[u'fern', u'plant']",n13193856,male_fern.n.01
+97,"[u'bird', u'duck']",n01850373,goldeneye.n.02
+98,"[u'flora', u'plant', u'tree']",n12329473,queen's_crape_myrtle.n.01
+99,"[u'flower', u'plant']",n12475035,bellwort.n.01
+100,"[u'formation', u'side', u'slope']",n09437454,slope.n.01
+101,"[u'bird', u'chicken', u'hen']",n01793249,pullet.n.02
+102,"[u'building', u'house', u'theater', u'theatre']",n03678729,little_theater.n.01
+103,"[u'plant', u'tree']",n13111881,bonsai.n.01
+104,"[u'formation', u'mountainside', u'side', u'slope']",n09361517,mountainside.n.01
+105,"[u'bar', u'counter', u'furniture', u'table']",n04130143,salad_bar.n.01
+106,"[u'musician', u'person']",n10229883,keyboardist.n.01
+107,"[u'coffee', u'fruit', u'seed']",n07929351,coffee_bean.n.01
+108,"[u'background', u'display', u'screen']",n02769075,background.n.07
+109,"[u'area', u'construction', u'room', u'structure']",n04401680,telephone_booth.n.01
+110,"[u'building', u'hospital']",n03730334,maternity_hospital.n.01
+111,"[u'fall', u'formation', u'side', u'slope']",n09269472,downhill.n.01
+112,"[u'horseshoe', u'plate', u'shell', u'shoe']",n03539433,horseshoe.n.02
+113,"[u'complex', u'construction', u'plant', u'structure']",n03956922,plant.n.01
+114,"[u'desk', u'table']",n03164722,davenport.n.02
+115,"[u'building', u'construction', u'home', u'house']",n03010915,chateau.n.01
+116,"[u'road', u'street', u'way']",n04334599,street.n.01
+117,"[u'animal', u'wolf', u'young']",n01322508,wolf_pup.n.01
+118,"[u'clothes', u'dress', u'good', u'shirt']",n04602956,work-shirt.n.01
+119,"[u'bird', u'chicken', u'hen']",n01792955,brood_hen.n.01
+120,"[u'flora', u'plant', u'tree']",n12663023,arabian_coffee.n.01
+121,"[u'bird', u'egret', u'heron']",n02010272,cattle_egret.n.01
+122,"[u'palm', u'plant', u'tree']",n12583126,fan_palm.n.01
+123,"[u'building', u'home', u'house']",n03635032,lamasery.n.01
+124,"[u'building', u'construction', u'home', u'house']",n02907873,brownstone.n.02
+125,"[u'ball', u'bubble']",n09191635,air_bubble.n.01
+126,"[u'building', u'restaurant']",n04398497,teashop.n.01
+127,"[u'building', u'house', u'theater', u'theatre']",n03801533,music_hall.n.01
+128,"[u'abbey', u'building', u'home', u'house']",n02667478,abbey.n.02
+129,"[u'animal', u'lamb']",n02412700,baa-lamb.n.01
+130,"[u'formation', u'hill']",n09459979,tor.n.02
+131,"[u'plant', u'tree']",n11761202,conacaste.n.01
+132,"[u'flora', u'plant', u'tree']",n12528974,indian_coral_tree.n.01
+133,"[u'location', u'point', u'shop', u'work']",n02840515,bindery.n.01
+134,"[u'building', u'home', u'house']",n04079244,residence.n.02
+135,"[u'boy', u'girl', u'person', u'someone']",n10567613,sea_scout.n.01
+136,"[u'flora', u'grass', u'plant']",n12121610,fescue.n.01
+137,"[u'building', u'home', u'house', u'structure']",n03439348,glebe_house.n.01
+138,"[u'apple', u'fruit']",n07739125,apple.n.01
+139,"[u'animal', u'young']",n02412787,hog.n.02
+140,"[u'construction', u'hill', u'wall']",n03262717,earthwork.n.01
+141,"[u'barn', u'building', u'construction']",n04441662,tithe_barn.n.01
+142,"[u'animal', u'baby', u'young']",n01322221,baby.n.06
+143,"[u'bird', u'egret', u'heron']",n02008796,egret.n.01
+144,"[u'building', u'home', u'house']",n03719053,mansion.n.02
+145,"[u'clothing', u'good', u'top', u'wear']",n03480579,halter.n.03
+146,"[u'building', u'construction', u'home', u'house']",n03099454,convent.n.01
+147,"[u'bird', u'egret', u'heron']",n02009380,snowy_egret.n.01
+148,"[u'animal', u'creature', u'cub', u'young']",n01322685,cub.n.03
+149,"[u'area', u'hall', u'palace', u'room']",n03878211,palace.n.03
+150,"[u'area', u'center', u'middle']",n08571275,midfield.n.01
+151,"[u'bird', u'heron']",n02008497,great_blue_heron.n.01
+152,"[u'building', u'church', u'construction', u'structure']",n03618982,kirk.n.01
+153,"[u'construction', u'stadium', u'structure', u'whole']",n02704949,amphitheater.n.02
+154,"[u'bar', u'formation', u'ridge', u'whole']",n09421951,sandbar.n.01
+155,"[u'bird', u'heron']",n02008643,great_white_heron.n.03
+156,"[u'flora', u'plant', u'tree']",n11758799,coralwood.n.01
+157,"[u'person', u'student']",n10249869,law_student.n.01
+158,"[u'building', u'home', u'house']",n03718458,manor.n.01
+159,"[u'bird', u'egret', u'heron']",n02009912,american_egret.n.01
+160,"[u'desk', u'furniture', u'table']",n04164868,secretary.n.04
+161,"[u'farmer', u'person', u'someone']",n09613118,contadino.n.01
+162,"[u'area', u'construction', u'room', u'trunk']",n03696065,luggage_compartment.n.01
+163,"[u'animal', u'foal', u'male', u'young']",n02376791,colt.n.01
+164,"[u'color', u'colour', u'purple', u'violet']",n04970398,indigo.n.03
+165,"[u'art', u'form', u'sculpture', u'statue']",n03846431,olympian_zeus.n.01
+166,"[u'complex', u'construction', u'plant', u'structure']",n03844673,oil_refinery.n.01
+167,"[u'musician', u'performer', u'person', u'player']",n10755080,violist.n.01
+168,"[u'building', u'house']",n03545150,house.n.12
+169,"[u'building', u'home', u'house']",n03877845,palace.n.04
+170,"[u'plant', u'tree']",n12491826,cassia.n.01
+171,"[u'bar', u'rail']",n04282872,split_rail.n.01
+172,"[u'building', u'home', u'house']",n03892557,parsonage.n.01
+173,"[u'field', u'garden', u'region', u'yard']",n03417749,garden.n.03
+174,"[u'climb', u'formation', u'side', u'slope']",n09206985,ascent.n.01
+175,"[u'construction', u'factory', u'plant', u'structure']",n03012897,chemical_plant.n.01
+176,"[u'art', u'carving', u'figure', u'sculpture']",n04597309,woodcarving.n.01
+177,"[u'bird', u'egret', u'heron']",n02009750,great_white_heron.n.02
+178,"[u'light', u'sign', u'signal']",n06874185,traffic_light.n.01
+179,"[u'building', u'home', u'house']",n04535524,villa.n.02
+180,"[u'person', u'player']",n10263411,lineman.n.01
+181,"[u'bush', u'plant', u'rose']",n12622297,musk_rose.n.01
+182,"[u'bird', u'chicken', u'rooster']",n01792158,cock.n.04
+183,"[u'plant', u'rose']",n12621410,damask_rose.n.01
+184,"[u'bird', u'bufflehead', u'duck']",n01850192,bufflehead.n.01
+185,"[u'bird', u'duck', u'duckling']",n01847170,duckling.n.02
+186,"[u'area', u'closet', u'room', u'stall']",n04209613,shower_stall.n.01
+187,"[u'building', u'home', u'house']",n04258438,solar_house.n.01
+188,"[u'bird', u'heron']",n02011943,european_bittern.n.01
+189,"[u'bird', u'duck']",n01848976,shoveler.n.02
+190,"[u'friend', u'person']",n09769076,addict.n.01
+191,"[u'construction', u'dwelling', u'home', u'structure']",n03042490,cliff_dwelling.n.01
+192,"[u'musician', u'performer', u'person']",n10151760,guitarist.n.01
+193,"[u'person', u'someone', u'sweater', u'whole']",n10418735,perspirer.n.01
+194,"[u'bird', u'duck']",n01852861,sea_duck.n.01
+195,"[u'bird', u'chicken', u'hen']",n01792640,hen.n.01
+196,"[u'formation', u'hillside', u'side', u'slope']",n09303528,hillside.n.01
+197,"[u'daffodil', u'flora', u'plant']",n12422129,jonquil.n.02
+198,"[u'pot', u'toilet', u'unit', u'whole']",n03371875,flush_toilet.n.01
+199,"[u'mustard', u'plant', u'rape']",n11879722,rape.n.01
+200,"[u'plant', u'tree']",n12741222,soapberry.n.01
+201,"[u'bird', u'drake', u'duck']",n01847000,drake.n.02
+202,"[u'green', u'lettuce']",n07723968,buttercrunch.n.01
+203,"[u'area', u'construction', u'room', u'structure']",n03939677,pilothouse.n.01
+204,"[u'construction', u'factory', u'plant', u'structure']",n03316406,factory.n.01
+205,"[u'flora', u'grass', u'plant']",n12130549,timothy.n.01
+206,"[u'building', u'church', u'construction', u'structure']",n03028079,church.n.02
+207,"[u'complex', u'construction', u'plant', u'structure']",n04350688,sugar_refinery.n.01
+208,"[u'plant', u'tree']",n12643113,cherry_laurel.n.02
+209,"[u'male', u'man', u'person', u'someone']",n10274173,lothario.n.01
+210,"[u'color', u'colour', u'paint', u'part']",n03546112,house_paint.n.01
+211,"[u'animal', u'whole', u'young']",n01956344,spat.n.03
+212,"[u'construction', u'factory', u'plant', u'structure']",n04311595,steel_mill.n.01
+213,"[u'complex', u'construction', u'plant', u'structure']",n04068441,refinery.n.01
+214,"[u'animal', u'male']",n01323355,sire.n.03
+215,"[u'building', u'cafe', u'restaurant']",n03297644,espresso_shop.n.01
+216,"[u'female', u'person', u'someone', u'whole']",n10131151,girl_wonder.n.01
+217,"[u'bed', u'bottom', u'formation']",n09448690,streambed.n.01
+218,"[u'area', u'construction', u'structure', u'yard']",n02793930,barnyard.n.01
+219,"[u'bowl', u'construction', u'stadium', u'structure']",n04295881,stadium.n.01
+220,"[u'formation', u'side', u'slope']",n09274152,escarpment.n.01
+221,"[u'building', u'home', u'house']",n04535370,villa.n.03
+222,"[u'apple', u'fruit']",n07739344,crab_apple.n.03
+223,"[u'truck', u'van', u'vehicle']",n04520170,van.n.05
+224,"[u'animal', u'calf', u'young']",n01888045,calf.n.04
+225,"[u'back', u'person', u'player']",n10689306,tailback.n.01
+226,"[u'location', u'point', u'shop', u'work']",n03260206,dye-works.n.01
+227,"[u'orange', u'tree']",n12710693,sweet_orange.n.02
+228,"[u'female', u'person', u'someone', u'whole']",n09619168,female.n.02
+229,"[u'female', u'person', u'someone', u'woman']",n10323752,mistress.n.01
+230,"[u'bird', u'swan']",n01859496,tundra_swan.n.01
+231,"[u'area', u'box', u'construction', u'room']",n04000592,press_box.n.01
+232,"[u'boy', u'female', u'girl', u'person']",n09981939,cub_scout.n.01
+233,"[u'bar', u'counter', u'furniture', u'table']",n04255768,soda_fountain.n.01
+234,"[u'mustard', u'plant']",n11878283,mustard.n.01
+235,"[u'column', u'construction', u'pillar', u'structure']",n04458633,totem_pole.n.01
+236,"[u'bar', u'rail', u'track']",n04426184,third_rail.n.01
+237,"[u'road', u'street', u'way']",n04335209,street.n.02
+238,"[u'plant', u'tree']",n12570703,mescal_bean.n.01
+239,"[u'bird', u'egret', u'heron']",n02009508,little_egret.n.01
+240,"[u'abbey', u'building', u'home', u'house']",n02667379,abbey.n.03
+241,"[u'construction', u'hill', u'structure', u'wall']",n02775689,bailey.n.04
+242,"[u'bird', u'duck']",n01848648,widgeon.n.01
+243,"[u'person', u'someone', u'student']",n09937056,collegian.n.01
+244,"[u'person', u'student']",n10258786,licentiate.n.01
+245,"[u'blouse', u'good', u'top']",n02854926,blouse.n.01
+246,"[u'grass', u'plant']",n12129134,fountain_grass.n.01
+247,"[u'cat', u'guy', u'man', u'person']",n10153414,guy.n.01
+248,"[u'male', u'man', u'person', u'someone']",n10288964,adonis.n.01
+249,"[u'crossing', u'place', u'point', u'spot']",n03581125,intersection.n.02
+250,"[u'animal', u'cattle', u'cow', u'young']",n02403740,heifer.n.01
+251,"[u'bed', u'layer', u'part', u'region']",n08659242,coal_seam.n.01
+252,"[u'flower', u'sunflower']",n11978961,giant_sunflower.n.01
+253,"[u'building', u'construction', u'house', u'structure']",n03333610,field_house.n.01
+254,"[u'animal', u'calf', u'young']",n01887896,calf.n.01
+255,"[u'building', u'home', u'house']",n03396580,friary.n.01
+256,"[u'fisherman', u'person', u'someone', u'worker']",n09793946,angler.n.02
+257,"[u'construction', u'shop', u'store']",n04131208,salon.n.02
+258,"[u'bank', u'formation', u'side', u'slope']",n09475925,waterside.n.01
+259,"[u'farmer', u'person', u'someone', u'whole']",n10078806,farmer.n.01
+260,"[u'building', u'house']",n03837698,oast_house.n.01
+261,"[u'coat', u'color', u'colour', u'wash']",n04553389,wash.n.01
+262,"[u'friend', u'person']",n09913593,cheerleader.n.01
+263,"[u'building', u'home', u'house']",n03718935,manse.n.02
+264,"[u'truck', u'van']",n03796401,moving_van.n.01
+265,"[u'building', u'restaurant']",n02952674,canteen.n.03
+266,"[u'building', u'cathedral', u'church', u'duomo']",n02984203,cathedral.n.02
+267,"[u'bird', u'heron']",n02010453,night_heron.n.01
+268,"[u'female', u'person', u'someone', u'woman']",n09832456,baggage.n.02
+269,"[u'animal', u'horse', u'male', u'whole']",n02376918,male_horse.n.01
+270,"[u'animal', u'male']",n01321230,male.n.01
+271,"[u'construction', u'corner', u'structure', u'whole']",n03109693,corner.n.11
+272,"[u'area', u'construction', u'room', u'structure']",n03215076,divan.n.04
+273,"[u'plant', u'tree']",n12586298,calamus.n.01
+274,"[u'animal', u'beast', u'horse', u'male']",n02377181,stallion.n.01
+275,"[u'good', u'gray', u'grey', u'wear']",n03456186,grey.n.06
+276,"[u'area', u'construction', u'room', u'structure']",n04112579,rotunda.n.02
+277,"[u'plant', u'tree']",n12330891,bayberry.n.01
+278,"[u'plant', u'tree']",n12722071,lignum_vitae.n.02
+279,"[u'area', u'cabinet', u'construction', u'room']",n02933462,cabinet.n.03
+280,"[u'brown', u'color', u'colour']",n04973020,tan.n.02
+281,"[u'building', u'home', u'house', u'structure']",n02857477,boarding_house.n.01
+282,"[u'bird', u'heron']",n02010728,black-crowned_night_heron.n.01
+283,"[u'area', u'construction', u'lounge', u'room']",n03177059,departure_lounge.n.01
+284,"[u'animal', u'beast', u'creature', u'female']",n01323493,dam.n.03
+285,"[u'building', u'home', u'house']",n03257210,duplex_house.n.01
+286,"[u'flora', u'lily', u'plant']",n12426749,canada_lily.n.01
+287,"[u'female', u'person', u'someone', u'woman']",n10333044,mother_figure.n.01
+288,"[u'plant', u'tree']",n11695974,ilang-ilang.n.02
+289,"[u'bird', u'swan']",n01859689,whistling_swan.n.01
+290,"[u'person', u'someone', u'student']",n10283366,major.n.03
+291,"[u'path', u'unit', u'way', u'whole']",n04461570,towpath.n.01
+292,"[u'art', u'painting', u'picture']",n03342127,finger-painting.n.01
+293,"[u'path', u'way', u'whole']",n02900459,bridle_path.n.01
+294,"[u'building', u'cathedral', u'church', u'construction']",n02984061,cathedral.n.01
+295,"[u'area', u'box', u'room', u'stadium']",n04232312,skybox.n.01
+296,"[u'bird', u'hummingbird']",n01833805,hummingbird.n.01
+297,"[u'building', u'home', u'house']",n04465050,tract_house.n.01
+298,"[u'building', u'construction', u'home', u'house']",n04005197,priory.n.01
+299,"[u'boy', u'girl', u'person']",n09871681,boy_scout.n.01
+300,"[u'truck', u'van']",n03173929,delivery_truck.n.01
+301,"[u'climb', u'event', u'mount']",n00326094,rock_climbing.n.01
+302,"[u'building', u'construction', u'house', u'theater']",n03849814,opera.n.03
+303,"[u'bar', u'counter', u'furniture', u'table']",n04573513,wet_bar.n.01
+304,"[u'female', u'person', u'someone', u'woman']",n10302700,matriarch.n.02
+305,"[u'area', u'closet', u'room', u'stall']",n02873839,booth.n.02
+306,"[u'climb', u'formation', u'side', u'slope']",n09466678,uphill.n.01
+307,"[u'plant', u'tree']",n11712282,tulip_tree.n.01
+308,"[u'apple', u'fruit']",n07742012,cooking_apple.n.01
+309,"[u'flora', u'plant', u'tree']",n12491017,mountain_ebony.n.01
+310,"[u'flora', u'grass', u'plant']",n12124627,rye_grass.n.01
+311,"[u'bird', u'duck']",n01850873,canvasback.n.01
+312,"[u'flora', u'flower', u'plant']",n11792341,spathiphyllum.n.01
+313,"[u'bird', u'swan']",n01860187,black_swan.n.01
+314,"[u'area', u'bathroom', u'room', u'toilet']",n03646809,latrine.n.01
+315,"[u'cap', u'top']",n02877765,bottlecap.n.01
+316,"[u'bodice', u'good', u'top', u'wear']",n02861387,bodice.n.01
+317,"[u'bar', u'counter', u'table']",n02789487,bar.n.02
+318,"[u'building', u'construction', u'home', u'house']",n02814338,beach_house.n.01
+319,"[u'abbey', u'building', u'church']",n02667576,abbey.n.01
+320,"[u'building', u'restaurant']",n02897389,brewpub.n.01
+321,"[u'dandelion', u'plant']",n12024176,dandelion.n.01
+322,"[u'animal', u'female', u'foal', u'young']",n02376679,filly.n.01
+323,"[u'plant', u'tree']",n13111174,spice_tree.n.01
+324,"[u'building', u'cathedral', u'church', u'minster']",n03772077,minster.n.01
+325,"[u'area', u'bedroom', u'room']",n03165466,day_nursery.n.01
+326,"[u'flora', u'grass', u'plant']",n12108871,tall_oat_grass.n.01
+327,"[u'animal', u'whole', u'young']",n01321770,orphan.n.04
+328,"[u'bird', u'turkey']",n01794158,turkey.n.01
+329,"[u'cause', u'group', u'person', u'someone']",n09738121,igbo.n.01
+330,"[u'truck', u'van']",n03764822,milk_float.n.01
+331,"[u'animal', u'young']",n01321579,young.n.01
+332,"[u'animal', u'kitten', u'kitty', u'young']",n02122948,kitten.n.01
+333,"[u'basilica', u'building', u'church', u'construction']",n02801184,basilica.n.01
+334,"[u'cat', u'tiger']",n02129923,tigress.n.01
+335,"[u'ginger', u'herb', u'plant']",n12356960,galangal.n.01
+336,"[u'area', u'construction', u'room', u'structure']",n03075946,command_module.n.01
+337,"[u'cause', u'person', u'someone', u'student']",n10803978,yogi.n.02
+338,"[u'flora', u'plant', u'tree']",n12946849,dogwood.n.01
+339,"[u'area', u'construction', u'structure', u'yard']",n03323211,farmyard.n.01
+340,"[u'animal', u'creature', u'young']",n01504179,fledgling.n.02
+341,"[u'animal', u'bird', u'parrot']",n01819115,cockatoo.n.01
+342,"[u'person', u'rider']",n10530150,rider.n.03
+343,"[u'color', u'colour', u'paint', u'part']",n03875218,paint.n.01
+344,"[u'plant', u'tree']",n12401684,fig.n.02
+345,"[u'flora', u'lily', u'plant']",n12426623,mountain_lily.n.01
+346,"[u'formation', u'hillside', u'side', u'slope']",n09228055,brae.n.01
+347,"[u'area', u'construction', u'room', u'structure']",n04299370,stall.n.01
+348,"[u'female', u'person', u'woman']",n09889065,call_girl.n.01
+349,"[u'flora', u'grass', u'plant']",n12112609,buffalo_grass.n.02
+350,"[u'road', u'track', u'trail', u'way']",n03948242,piste.n.02
+351,"[u'construction', u'lighthouse', u'structure', u'tower']",n02814860,beacon.n.03
+352,"[u'butte', u'elevation', u'formation', u'hill']",n09230202,butte.n.01
+353,"[u'plant', u'tree']",n12263204,european_chestnut.n.01
+354,"[u'guard', u'person']",n10150071,guard.n.01
+355,"[u'formation', u'hill']",n09327077,kopje.n.01
+356,"[u'area', u'construction', u'room', u'structure']",n02824319,belfry.n.02
+357,"[u'line', u'path', u'track', u'trail']",n09443281,spoor.n.01
+358,"[u'area', u'hall', u'room']",n02823848,beer_hall.n.01
+359,"[u'flora', u'plant', u'tree']",n12222900,wheel_tree.n.01
+360,"[u'shop', u'store']",n04271531,specialty_store.n.01
+361,"[u'bird', u'duck']",n01849863,ruddy_duck.n.01
+362,"[u'brown', u'color', u'colour', u'copper']",n04973669,copper.n.04
+363,"[u'bird', u'duck', u'mallard']",n01847806,mallard.n.01
+364,"[u'rock', u'stone']",n09478210,whinstone.n.01
+365,"[u'blue', u'butterfly']",n02282257,blue.n.07
+366,"[u'plant', u'tree']",n12265600,japanese_oak.n.02
+367,"[u'flora', u'plant', u'tree']",n12714755,prickly_ash.n.01
+368,"[u'building', u'home', u'house']",n04535252,villa.n.04
+369,"[u'animal', u'bird', u'hen']",n01514859,hen.n.02
+370,"[u'person', u'player']",n09835506,ballplayer.n.01
+371,"[u'area', u'construction', u'room']",n03200539,dining-hall.n.01
+372,"[u'plant', u'tree']",n12403994,paper_mulberry.n.01
+373,"[u'building', u'school', u'whole']",n03165616,day_school.n.03
+374,"[u'grass', u'plant']",n12117017,crabgrass.n.01
+375,"[u'plant', u'tree']",n12662772,coffee.n.02
+376,"[u'flora', u'plant', u'tree']",n12494794,royal_poinciana.n.01
+377,"[u'animal', u'young']",n01323261,suckling.n.03
+378,"[u'column', u'pillar', u'tower']",n13900422,column.n.04
+379,"[u'flora', u'lily', u'plant']",n12427946,coast_lily.n.01
+380,"[u'area', u'closet', u'construction', u'room']",n03090172,confessional.n.01
+381,"[u'plant', u'tree']",n12527738,coral_tree.n.01
+382,"[u'bed', u'bottom', u'formation']",n09415671,riverbed.n.01
+383,"[u'bird', u'heron']",n02008041,heron.n.02
+384,"[u'apartment', u'flat', u'studio', u'unit']",n04344734,studio_apartment.n.01
+385,"[u'groom', u'person']",n10148035,groom.n.01
+386,"[u'plant', u'vegetable']",n11832214,beet.n.01
+387,"[u'person', u'someone']",n10604979,skidder.n.02
+388,"[u'passage', u'tunnel', u'way']",n02981024,catacomb.n.01
+389,"[u'building', u'house']",n04246731,smokehouse.n.01
+390,"[u'bird', u'duck']",n01849466,sheldrake.n.02
+391,"[u'building', u'construction', u'house', u'theater']",n03032252,cinema.n.02
+392,"[u'female', u'person', u'wife', u'woman']",n09981278,crown_princess.n.01
+393,"[u'clothing', u'good', u'top', u'wear']",n04453666,top.n.10
+394,"[u'person', u'player', u'someone']",n10575463,seeded_player.n.01
+395,"[u'fabric', u'good', u'piece', u'towel']",n02808304,bath_towel.n.01
+396,"[u'flora', u'herb', u'plant', u'vegetable']",n11832480,beetroot.n.01
+397,"[u'animal', u'young']",n01321854,young_mammal.n.01
+398,"[u'child', u'kid', u'person', u'someone']",n10107173,foster-son.n.01
+399,"[u'entrance', u'unit', u'way', u'whole']",n04541662,vomitory.n.01
+400,"[u'flower', u'sunflower']",n11979527,prairie_sunflower.n.01
+401,"[u'fern', u'plant']",n13198054,ostrich_fern.n.01
+402,"[u'female', u'person', u'someone', u'woman']",n09847543,beldam.n.02
+403,"[u'plant', u'tree']",n12651821,fruit_tree.n.01
+404,"[u'flora', u'grass', u'plant']",n12104238,tallgrass.n.01
+405,"[u'building', u'home', u'house', u'structure']",n03544360,house.n.01
+406,"[u'plant', u'tree']",n12774299,balata.n.02
+407,"[u'booth', u'construction', u'shop', u'store']",n02874086,booth.n.04
+408,"[u'building', u'home', u'house', u'structure']",n03118969,country_house.n.01
+409,"[u'animal', u'bird']",n01521756,rhea.n.02
+410,"[u'female', u'person', u'someone', u'woman']",n10377021,old_woman.n.01
+411,"[u'bird', u'chicken']",n01793435,rhode_island_red.n.01
+412,"[u'plant', u'tree']",n12478768,cabbage_tree.n.03
+413,"[u'help', u'man', u'person', u'someone']",n10289176,man.n.05
+414,"[u'path', u'sidewalk', u'walk', u'way']",n04215402,sidewalk.n.01
+415,"[u'male', u'person', u'someone', u'whole']",n09624168,male.n.02
+416,"[u'palm', u'plant', u'tree']",n12591017,cabbage_palm.n.04
+417,"[u'bluebonnet', u'plant']",n12547215,bluebonnet.n.01
+418,"[u'construction', u'fence', u'structure', u'wall']",n04547592,wall.n.07
+419,"[u'animal', u'bird', u'chicken', u'young']",n01792042,chick.n.01
+420,"[u'building', u'tavern', u'whole']",n07888378,shebeen.n.01
+421,"[u'help', u'lifeguard', u'person', u'someone']",n10260800,lifeguard.n.01
+422,"[u'airport', u'field']",n02692232,airport.n.01
+423,"[u'flora', u'myrtle', u'plant', u'tree']",n12330469,myrtle.n.02
+424,"[u'person', u'senior', u'someone', u'student']",n10579062,senior.n.01
+425,"[u'maple', u'plant', u'tree']",n12752205,maple.n.02
+426,"[u'animal', u'bird']",n01521399,rhea.n.03
+427,"[u'bird', u'chicken']",n01791625,chicken.n.02
+428,"[u'good', u'shirt', u'sweater', u'wear']",n04502197,turtleneck.n.01
+429,"[u'female', u'person', u'someone', u'woman']",n10598181,signorina.n.01
+430,"[u'grass', u'plant']",n12115180,pampas_grass.n.01
+431,"[u'car', u'truck', u'van']",n03770679,minivan.n.01
+432,"[u'area', u'construction', u'room', u'structure']",n03061505,cockpit.n.01
+433,"[u'construction', u'hill', u'structure', u'wall']",n02811936,battlement.n.01
+434,"[u'plant', u'tree']",n12717072,ailanthus.n.01
+435,"[u'animal', u'young']",n01504344,nestling.n.01
+436,"[u'mustard', u'plant']",n11896722,field_mustard.n.01
+437,"[u'construction', u'fence', u'fencing', u'structure']",n02771547,backstop.n.02
+438,"[u'construction', u'shop', u'store', u'structure']",n04202417,shop.n.01
+439,"[u'construction', u'shop', u'store']",n04462240,toyshop.n.01
+440,"[u'plant', u'tree']",n12263038,american_chestnut.n.01
+441,"[u'plant', u'tree']",n12756457,holly.n.01
+442,"[u'flora', u'iris', u'plant']",n12412355,bearded_iris.n.01
+443,"[u'bird', u'duck']",n01851038,pochard.n.01
+444,"[u'plant', u'tree']",n12757816,american_holly.n.01
+445,"[u'flora', u'plant', u'tree']",n11756092,acacia.n.01
+446,"[u'formation', u'highland', u'mesa', u'table']",n09351905,mesa.n.01
+447,"[u'color', u'colour', u'gray', u'grey']",n04961691,gray.n.01
+448,"[u'area', u'classroom', u'room']",n03529175,home_room.n.01
+449,"[u'baby', u'child', u'person', u'whole']",n09918554,child.n.03
+450,"[u'plant', u'tree']",n12154773,pandanus.n.02
+451,"[u'bird', u'heron']",n02011281,boatbill.n.01
+452,"[u'pipe', u'tube', u'way']",n04094859,riser.n.02
+453,"[u'plant', u'tree']",n11762433,lead_tree.n.01
+454,"[u'building', u'home', u'house', u'structure']",n03180865,detached_house.n.01
+455,"[u'baby', u'child', u'kid', u'person']",n10134396,godchild.n.01
+456,"[u'plant', u'tree']",n12263987,ozark_chinkapin.n.01
+457,"[u'female', u'person', u'someone', u'woman']",n10368528,nymph.n.03
+458,"[u'grass', u'plant']",n12116429,orchard_grass.n.01
+459,"[u'building', u'home', u'house', u'unit']",n03685820,lodging_house.n.01
+460,"[u'plant', u'tree']",n12196694,kurrajong.n.01
+461,"[u'flower', u'sunflower']",n11979715,jerusalem_artichoke.n.02
+462,"[u'plant', u'tree']",n12402596,pipal.n.01
+463,"[u'plant', u'tree']",n11759404,silk_tree.n.01
+464,"[u'staircase', u'stairway', u'way']",n02771166,backstairs.n.01
+465,"[u'flora', u'flower', u'plant']",n12480456,tuberose.n.01
+466,"[u'plant', u'tree']",n12927494,candlenut.n.01
+467,"[u'flower', u'sunflower']",n11978713,common_sunflower.n.01
+468,"[u'construction', u'fence', u'structure', u'wall']",n04082710,retaining_wall.n.01
+469,"[u'animal', u'young']",n01613615,young_bird.n.01
+470,"[u'brown', u'color']",n04973386,reddish_brown.n.01
+471,"[u'construction', u'plant', u'still', u'structure']",n03212811,distillery.n.01
+472,"[u'area', u'construction', u'room', u'structure']",n04449290,tollbooth.n.01
+473,"[u'plant', u'tree']",n12927758,tung_tree.n.01
+474,"[u'area', u'construction', u'hall', u'room']",n03086580,concert_hall.n.01
+475,"[u'male', u'man', u'person', u'whole']",n09641002,white_man.n.01
+476,"[u'formation', u'hill', u'mound']",n09199101,anthill.n.01
+477,"[u'person', u'student']",n09866559,bookworm.n.02
+478,"[u'ball', u'bubble', u'shape']",n09229709,bubble.n.01
+479,"[u'building', u'restaurant']",n02935891,cafeteria.n.01
+480,"[u'flora', u'iris', u'plant']",n12413165,dwarf_iris.n.02
+481,"[u'path', u'walk', u'walkway', u'way']",n03253187,duckboard.n.01
+482,"[u'crossing', u'way']",n03906590,pelican_crossing.n.01
+483,"[u'memorial', u'monument', u'stone', u'structure']",n03455488,gravestone.n.01
+484,"[u'person', u'seller', u'someone', u'vendor']",n10577710,selling_agent.n.01
+485,"[u'fern', u'plant']",n13171210,umbrella_fern.n.01
+486,"[u'stairwell', u'way', u'well']",n04298661,stairwell.n.01
+487,"[u'construction', u'shop', u'store', u'structure']",n03871371,package_store.n.01
+488,"[u'color', u'colour', u'paint', u'part']",n03285578,encaustic.n.01
+489,"[u'man', u'person']",n10406765,patriarch.n.02
+490,"[u'area', u'construction', u'hall', u'structure']",n02726210,apadana.n.01
+491,"[u'building', u'home', u'house', u'structure']",n03002816,chalet.n.01
+492,"[u'flower', u'pink', u'plant']",n11807979,pink.n.02
+493,"[u'construction', u'hill', u'structure', u'wall']",n04051825,rampart.n.01
+494,"[u'asparagus', u'herb', u'plant']",n12441183,asparagus.n.01
+495,"[u'plant', u'tree']",n13108481,sapling.n.01
+496,"[u'food', u'grass', u'pasture']",n07801091,eatage.n.01
+497,"[u'bookstore', u'construction', u'shop', u'store']",n02871525,bookshop.n.01
+498,"[u'passage', u'tunnel', u'way']",n04048441,railroad_tunnel.n.01
+499,"[u'clothes', u'dress', u'jean', u'pant']",n03594734,jean.n.01
+500,"[u'plant', u'tree']",n12528549,ceibo.n.01
+501,"[u'brown', u'color', u'colour']",n04973816,indian_red.n.03
+502,"[u'plant', u'tree']",n12271643,red_oak.n.01
+503,"[u'flora', u'lily', u'plant']",n12427391,columbia_tiger_lily.n.01
+504,"[u'flora', u'flower', u'plant', u'sunflower']",n11978233,sunflower.n.01
+505,"[u'plant', u'tree']",n12595964,lady_palm.n.01
+506,"[u'construction', u'shop', u'store']",n03089624,confectionery.n.02
+507,"[u'plant', u'tree']",n12814643,catalpa.n.01
+508,"[u'area', u'construction', u'lock', u'structure']",n03683079,lock.n.04
+509,"[u'flora', u'grass', u'plant']",n12104734,goat_grass.n.01
+510,"[u'home', u'tent']",n04412416,tepee.n.01
+511,"[u'bird', u'duck']",n01846331,duck.n.01
+512,"[u'female', u'person', u'woman']",n10025635,donna.n.01
+513,"[u'fern', u'plant']",n13185269,deer_fern.n.01
+514,"[u'place', u'point', u'spot', u'stop']",n08517676,bus_stop.n.01
+515,"[u'bush', u'flora', u'plant', u'rose']",n12620196,rose.n.01
+516,"[u'fern', u'plant']",n12961879,flowering_fern.n.01
+517,"[u'area', u'construction', u'hall', u'room']",n03718581,manor_hall.n.01
+518,"[u'employee', u'person', u'someone']",n10371330,office_boy.n.01
+519,"[u'party', u'person', u'someone', u'whole']",n10402824,party.n.05
+520,"[u'plant', u'tree']",n12513613,judas_tree.n.01
+521,"[u'boat', u'dish']",n03456024,gravy_boat.n.01
+522,"[u'bird', u'duck']",n01852400,mandarin_duck.n.01
+523,"[u'banana', u'plant']",n12352990,plantain.n.02
+524,"[u'animal', u'bird', u'woodpecker']",n01838598,woodpecker.n.01
+525,"[u'plant', u'tree']",n11759224,albizzia.n.01
+526,"[u'clothing', u'good', u'shirt', u'wear']",n04390577,tank_top.n.01
+527,"[u'construction', u'structure', u'tower', u'trestle']",n04479823,trestle.n.01
+528,"[u'male', u'man', u'person']",n10173771,herr.n.01
+529,"[u'bar', u'table']",n04591631,wine_bar.n.01
+530,"[u'female', u'person', u'someone', u'woman']",n09637339,black_woman.n.01
+531,"[u'flower', u'pink']",n11808468,carnation.n.01
+532,"[u'building', u'cottage', u'home', u'house']",n02919792,bungalow.n.01
+533,"[u'plant', u'tree']",n12155009,textile_screw_pine.n.01
+534,"[u'plant', u'tree']",n12726528,arctic_willow.n.01
+535,"[u'male', u'man', u'person', u'someone']",n10406266,patriarch.n.04
+536,"[u'building', u'cafe', u'restaurant']",n02936281,caff.n.01
+537,"[u'exposure', u'photo', u'pic', u'picture']",n03927091,photomicrograph.n.01
+538,"[u'plant', u'tree']",n12570394,japanese_pagoda_tree.n.01
+539,"[u'plant', u'tree']",n12225222,she-oak.n.01
+540,"[u'cat', u'tiger']",n02129604,tiger.n.02
+541,"[u'friend', u'person', u'someone', u'whole']",n10056611,end_man.n.02
+542,"[u'banana', u'plant']",n12352287,banana.n.01
+543,"[u'flower', u'poppy']",n11905392,california_poppy.n.01
+544,"[u'plant', u'tree']",n12304115,white_ash.n.02
+545,"[u'animal', u'bear', u'cub', u'young']",n01322983,bear_cub.n.01
+546,"[u'fern', u'plant']",n13214340,spider_brake.n.01
+547,"[u'area', u'room', u'unit', u'whole']",n03098688,control_room.n.01
+548,"[u'animal', u'young']",n01323155,kit.n.03
+549,"[u'area', u'place', u'point', u'spot']",n03073545,columbarium.n.03
+550,"[u'animal', u'pup', u'young']",n01322343,pup.n.01
+551,"[u'artist', u'person', u'someone', u'soul']",n10667477,stylist.n.01
+552,"[u'construction', u'shop', u'store', u'structure']",n03493911,hardware_store.n.01
+553,"[u'dandelion', u'flora', u'plant']",n12024445,common_dandelion.n.01
+554,"[u'shop', u'store']",n03766508,millinery.n.01
+555,"[u'animal', u'horse', u'male']",n02377388,gelding.n.01
+556,"[u'brown', u'color', u'colour', u'property']",n04972801,light_brown.n.01
+557,"[u'calla', u'flower', u'plant']",n11793779,calla_lily.n.01
+558,"[u'construction', u'market', u'structure']",n08492461,agora.n.02
+559,"[u'fern', u'plant']",n13187367,silver_tree_fern.n.01
+560,"[u'hand', u'person', u'player']",n10505613,raiser.n.01
+561,"[u'building', u'home', u'house']",n04125541,safe_house.n.01
+562,"[u'construction', u'shop', u'store', u'structure']",n03099274,convenience_store.n.01
+563,"[u'female', u'person', u'someone', u'woman']",n09861599,bluestocking.n.01
+564,"[u'plant', u'tree']",n12506341,cabbage_bark.n.01
+565,"[u'fern', u'flora', u'plant']",n13193642,wood_fern.n.01
+566,"[u'construction', u'hill', u'structure', u'whole']",n04251701,snowbank.n.01
+567,"[u'area', u'construction', u'hall', u'room']",n03303831,exhibition_hall.n.01
+568,"[u'crocus', u'flora', u'plant']",n12416703,saffron.n.01
+569,"[u'flora', u'grass', u'plant']",n12133682,bluestem.n.01
+570,"[u'construction', u'factory', u'plant', u'structure']",n03585682,iron_foundry.n.01
+571,"[u'area', u'construction', u'place', u'structure']",n03732114,mausoleum.n.01
+572,"[u'grass', u'plant']",n12131405,bluegrass.n.01
+573,"[u'flower', u'pink']",n11809594,cottage_pink.n.01
+574,"[u'person', u'student']",n10665698,student.n.01
+575,"[u'construction', u'shop', u'store', u'structure']",n03436417,gift_shop.n.01
+576,"[u'building', u'home', u'house', u'structure']",n03474352,hacienda.n.02
+577,"[u'plant', u'tree']",n12568186,black_locust.n.02
+578,"[u'bird', u'chicken', u'hen']",n01793085,mother_hen.n.02
+579,"[u'building', u'construction', u'house', u'theater']",n04417809,theater.n.01
+580,"[u'cover', u'covering', u'top']",n03717622,manhole_cover.n.01
+581,"[u'area', u'yard']",n04610503,yard.n.09
+582,"[u'orange', u'tree']",n12708654,sour_orange.n.01
+583,"[u'green', u'produce', u'vegetable', u'veggie']",n07736256,turnip_greens.n.01
+584,"[u'plant', u'tree']",n12696492,neem.n.01
+585,"[u'area', u'room', u'whole']",n04213530,sickroom.n.01
+586,"[u'female', u'person', u'soul', u'woman']",n10787470,woman.n.01
+587,"[u'cap', u'cover', u'top', u'whole']",n02954938,cap.n.02
+588,"[u'animal', u'horse', u'male']",n02377291,stud.n.04
+589,"[u'area', u'construction', u'room', u'whole']",n04058096,reading_room.n.01
+590,"[u'building', u'kennel', u'shelter']",n03610524,kennel.n.01
+591,"[u'plant', u'tree']",n12196336,flame_tree.n.04
+592,"[u'area', u'cab', u'construction', u'room']",n02931148,cab.n.01
+593,"[u'musician', u'performer', u'person', u'someone']",n10098245,flutist.n.01
+594,"[u'green', u'lettuce', u'vegetable']",n07724269,crisphead_lettuce.n.01
+595,"[u'male', u'man', u'person']",n10194231,ex-husband.n.01
+596,"[u'plant', u'tree']",n12201580,cacao.n.01
+597,"[u'green', u'lettuce', u'vegetable']",n07723559,lettuce.n.03
+598,"[u'bush', u'frangipani', u'plant', u'shrub']",n11774513,frangipani.n.01
+599,"[u'plant', u'tree']",n12305293,manna_ash.n.01
+600,"[u'complex', u'construction', u'plant', u'still']",n04592465,winery.n.01
+601,"[u'flora', u'flower', u'plant']",n11812910,sandwort.n.02
+602,"[u'lovely', u'model', u'person']",n09972458,cover_girl.n.01
+603,"[u'plant', u'tree']",n13108131,bean_tree.n.01
+604,"[u'lily', u'plant']",n12427184,tiger_lily.n.02
+605,"[u'bar', u'table']",n04247736,snack_bar.n.01
+606,"[u'area', u'construction', u'room', u'whole']",n04532504,vestry.n.02
+607,"[u'bamboo', u'plant']",n12148757,giant_bamboo.n.01
+608,"[u'location', u'place', u'point', u'spot']",n08584914,hole-in-the-wall.n.01
+609,"[u'building', u'house', u'theater']",n03798982,multiplex.n.02
+610,"[u'plant', u'tree']",n12496427,kentucky_coffee_tree.n.01
+611,"[u'ball', u'bubble', u'foam', u'globe']",n09439213,soapsuds.n.01
+612,"[u'green', u'vegetable']",n07709333,greens.n.01
+613,"[u'building', u'restaurant', u'unit', u'whole']",n02952485,canteen.n.05
+614,"[u'plant', u'tree']",n12203529,american_basswood.n.01
+615,"[u'flora', u'plant', u'wildflower']",n11972291,desert_sunflower.n.01
+616,"[u'area', u'bathroom', u'room', u'toilet']",n04555291,washroom.n.01
+617,"[u'person', u'student']",n10116702,futurist.n.01
+618,"[u'art', u'figure', u'sculpture', u'statue']",n04306847,statue.n.01
+619,"[u'beauty', u'female', u'person', u'woman']",n10613996,smasher.n.02
+620,"[u'plant', u'tree']",n12741586,wild_china_tree.n.01
+621,"[u'building', u'home', u'house', u'palace']",n02695627,alcazar.n.01
+622,"[u'flower', u'sunflower']",n11978551,swamp_sunflower.n.01
+623,"[u'rock', u'stone']",n09416076,rock.n.01
+624,"[u'cat', u'lion', u'lioness']",n02129463,lioness.n.01
+625,"[u'banana', u'plant']",n12352639,dwarf_banana.n.01
+626,"[u'place', u'point', u'spot']",n03727067,mastaba.n.01
+627,"[u'ground', u'land']",n09267854,divot.n.02
+628,"[u'plant', u'tree']",n12180885,lacebark.n.01
+629,"[u'area', u'bedroom', u'construction', u'room']",n03225108,dormitory.n.02
+630,"[u'field', u'location', u'region']",n03878511,palestra.n.01
+631,"[u'fern', u'flora', u'plant']",n13229543,mountain_fern.n.01
+632,"[u'building', u'construction', u'house']",n04022866,pump_room.n.01
+633,"[u'ginger', u'herb', u'plant']",n12356023,common_ginger.n.01
+634,"[u'gravel', u'part', u'rock', u'stone']",n14698884,gravel.n.01
+635,"[u'construction', u'home', u'structure']",n04584373,wigwam.n.01
+636,"[u'area', u'classroom', u'room']",n04345201,study_hall.n.02
+637,"[u'elevation', u'foothill', u'formation', u'hill']",n09283405,foothill.n.01
+638,"[u'building', u'library']",n03661043,library.n.05
+639,"[u'flower', u'pink']",n11808721,china_pink.n.01
+640,"[u'grass', u'plant']",n12110778,brome.n.01
+641,"[u'friend', u'person', u'someone']",n10686073,sympathizer.n.02
+642,"[u'building', u'chapel', u'construction', u'structure']",n03007130,chapel.n.01
+643,"[u'female', u'person', u'woman']",n10375314,old_lady.n.01
+644,"[u'person', u'woman']",n10303037,matron.n.01
+645,"[u'plant', u'tree']",n11761650,inga.n.01
+646,"[u'crossing', u'path', u'way', u'whole']",n03904183,pedestrian_crossing.n.01
+647,"[u'plant', u'tree']",n12658118,mountain_ash.n.01
+648,"[u'area', u'construction', u'room', u'whole']",n04247440,smoking_room.n.01
+649,"[u'clothing', u'good', u'shirt', u'wear']",n03163381,dashiki.n.01
+650,"[u'bird', u'eagle']",n01613294,eagle.n.01
+651,"[u'fern', u'plant']",n12951835,filmy_fern.n.02
+652,"[u'dancer', u'person', u'whole']",n09990690,clog_dancer.n.01
+653,"[u'animal', u'bird', u'eagle', u'young']",n01613807,eaglet.n.01
+654,"[u'fern', u'flora', u'plant']",n13190060,bracken.n.01
+655,"[u'person', u'runner', u'someone', u'whole']",n10542761,runner.n.02
+656,"[u'plant', u'tree']",n12284262,alder.n.02
+657,"[u'plant', u'tree']",n12670758,wild_medlar.n.01
+658,"[u'canal', u'way']",n04037873,raceway.n.01
+659,"[u'area', u'room']",n04341133,strongroom.n.01
+660,"[u'flower', u'pink']",n11809437,button_pink.n.01
+661,"[u'magnolia', u'plant', u'tree']",n11709674,magnolia.n.02
+662,"[u'plant', u'tree']",n12325234,white_mangrove.n.02
+663,"[u'area', u'bath', u'bathroom', u'room']",n02807731,bathroom.n.01
+664,"[u'flower', u'pink']",n11809754,fringed_pink.n.02
+665,"[u'area', u'bathroom', u'closet', u'room']",n04558478,water_closet.n.01
+666,"[u'fern', u'plant']",n13209808,bamboo_fern.n.01
+667,"[u'flora', u'flower', u'plant']",n11721337,lesser_celandine.n.01
+668,"[u'flora', u'flower', u'plant']",n11958499,brass_buttons.n.01
+669,"[u'plant', u'tree']",n13108841,conifer.n.01
+670,"[u'clothing', u'good', u'shirt', u'wear']",n04197391,shirt.n.01
+671,"[u'flora', u'grass', u'plant']",n12112008,grama.n.01
+672,"[u'plant', u'tree']",n12302071,fringe_tree.n.01
+673,"[u'fern', u'flora', u'plant']",n11545714,fern.n.01
+674,"[u'flower', u'plant']",n11810358,baby's_breath.n.01
+675,"[u'plant', u'tree']",n12284821,common_alder.n.01
+676,"[u'flower', u'poppy']",n11902200,corn_poppy.n.01
+677,"[u'area', u'construction', u'room']",n03441345,glove_compartment.n.01
+678,"[u'female', u'lady', u'person', u'woman']",n10142166,grande_dame.n.01
+679,"[u'shop', u'store']",n03920641,pet_shop.n.01
+680,"[u'building', u'hospital']",n03129471,creche.n.01
+681,"[u'green', u'veg', u'vegetable', u'veggie']",n07719980,beet_green.n.01
+682,"[u'animal', u'bird', u'creature']",n01514752,gamecock.n.01
+683,"[u'man', u'person']",n09780828,air_force_officer.n.01
+684,"[u'bush', u'flora', u'plant', u'rhododendron']",n12244153,rhododendron.n.01
+685,"[u'cape', u'earth', u'ground', u'land']",n09442595,spit.n.01
+686,"[u'food', u'green', u'vegetable', u'veggie']",n07720277,chard.n.02
+687,"[u'plant', u'wildflower']",n11959259,hawk's-beard.n.01
+688,"[u'female', u'person', u'woman']",n10304086,mayoress.n.01
+689,"[u'area', u'room']",n03256928,dungeon.n.02
+690,"[u'plant', u'tree']",n12586989,fishtail_palm.n.01
+691,"[u'plant', u'tree']",n12495146,locust_tree.n.01
+692,"[u'herb', u'plant']",n11877193,collard.n.01
+693,"[u'author', u'cause', u'person', u'someone']",n10126177,generator.n.03
+694,"[u'musician', u'performer', u'person']",n10340312,musician.n.01
+695,"[u'area', u'library', u'room']",n03660909,library.n.01
+696,"[u'elevation', u'formation', u'hill']",n09303008,hill.n.01
+697,"[u'plant', u'tree']",n12700088,honduras_mahogany.n.01
+698,"[u'green', u'park']",n08494231,amusement_park.n.01
+699,"[u'banana', u'flora', u'herb', u'plant']",n12352844,japanese_banana.n.01
+700,"[u'brown', u'color', u'colour']",n04972350,chestnut.n.04
+701,"[u'animal', u'bird', u'owl']",n01621127,owl.n.01
+702,"[u'plant', u'tree']",n12345899,mangrove.n.01
+703,"[u'plant', u'tree']",n12261808,american_beech.n.01
+704,"[u'plant', u'tree']",n12815668,calabash.n.02
+705,"[u'employee', u'person', u'someone', u'worker']",n10763383,waiter.n.01
+706,"[u'animal', u'bird', u'creature']",n01545574,lyrebird.n.01
+707,"[u'area', u'construction', u'room', u'whole']",n02783324,ballroom.n.01
+708,"[u'member', u'person']",n10203949,inductee.n.01
+709,"[u'bush', u'flora', u'plant']",n12666965,cape_jasmine.n.01
+710,"[u'area', u'bedroom', u'construction', u'room']",n03017070,child's_room.n.01
+711,"[u'building', u'construction', u'home', u'house']",n03158186,dacha.n.01
+712,"[u'plant', u'tree']",n12286197,green_alder.n.01
+713,"[u'animal', u'bird', u'creature']",n01803893,argus.n.02
+714,"[u'area', u'bathroom', u'room', u'toilet']",n03632963,ladies'_room.n.01
+715,"[u'plant', u'wildflower']",n12012111,butterweed.n.01
+716,"[u'color', u'colour', u'pearl', u'white']",n04961331,bone.n.03
+717,"[u'plant', u'tree']",n12729315,swamp_willow.n.01
+718,"[u'flora', u'herb', u'plant']",n11878101,broccoli_raab.n.01
+719,"[u'bar', u'unit', u'whole']",n04459909,towel_rail.n.01
+720,"[u'passage', u'pipe', u'tube', u'way']",n03206158,discharge_pipe.n.01
+721,"[u'female', u'person', u'woman']",n10055410,enchantress.n.01
+722,"[u'plant', u'thistle', u'weed']",n11954161,canada_thistle.n.01
+723,"[u'female', u'person', u'woman']",n10368624,nymphet.n.01
+724,"[u'area', u'corner', u'nook', u'unit']",n03109881,corner.n.03
+725,"[u'flora', u'lily', u'plant']",n12427566,tiger_lily.n.01
+726,"[u'area', u'construction', u'room', u'unit']",n04356925,sun_parlor.n.01
+727,"[u'fern', u'flora', u'plant']",n13229951,new_york_fern.n.01
+728,"[u'area', u'construction', u'room', u'unit']",n04065464,recreation_room.n.01
+729,"[u'brother', u'friend', u'person', u'whole']",n09877951,buddy.n.01
+730,"[u'construction', u'shop', u'store', u'structure']",n03916385,perfumery.n.02
+731,"[u'building', u'home', u'house', u'structure']",n04131368,saltbox.n.01
+732,"[u'area', u'construction', u'room']",n03850245,operating_room.n.01
+733,"[u'building', u'restaurant', u'whole']",n02892499,brasserie.n.01
+734,"[u'man', u'person']",n10289039,man.n.03
+735,"[u'fern', u'flora', u'plant']",n13205058,boston_fern.n.01
+736,"[u'dress', u'good']",n03964611,playsuit.n.01
+737,"[u'flora', u'flower', u'plant']",n11904109,corydalis.n.01
+738,"[u'rock', u'stone']",n09481120,xenolith.n.01
+739,"[u'flora', u'flower', u'plant', u'poppy']",n11900569,poppy.n.01
+740,"[u'plant', u'tree']",n12729521,bay_willow.n.01
+741,"[u'plant', u'tree']",n12203896,white_basswood.n.01
+742,"[u'shop', u'store']",n04428634,thriftshop.n.01
+743,"[u'blouse', u'clothing', u'top', u'wear']",n04198562,shirtwaist.n.01
+744,"[u'driver', u'person', u'someone', u'worker']",n09932336,coachman.n.01
+745,"[u'construction', u'gable', u'structure', u'wall']",n03904657,pediment.n.01
+746,"[u'person', u'someone', u'worker']",n10297531,mason.n.04
+747,"[u'location', u'open', u'outside', u'part']",n08613733,outdoors.n.01
+748,"[u'green', u'veg', u'vegetable', u'veggie']",n07731587,chicory_escarole.n.01
+749,"[u'plant', u'tree']",n12915811,white_mangrove.n.01
+750,"[u'bush', u'flora', u'hydrangea', u'plant']",n12788854,hortensia.n.01
+751,"[u'exposure', u'photo', u'pic', u'picture']",n04042358,radiogram.n.02
+752,"[u'plant', u'tree']",n12264512,oak_chestnut.n.01
+753,"[u'green', u'lettuce', u'vegetable', u'veggie']",n07724492,cos.n.02
+754,"[u'animal', u'bird']",n01520576,kiwi.n.04
+755,"[u'area', u'classroom', u'room']",n03038685,classroom.n.01
+756,"[u'case', u'person', u'someone', u'whole']",n10405694,patient.n.01
+757,"[u'palm', u'plant', u'tree']",n12591351,cabbage_palm.n.03
+758,"[u'fern', u'flora', u'plant']",n13213066,silver_fern.n.02
+759,"[u'plant', u'tree']",n12194147,jamaican_cherry.n.01
+760,"[u'animal', u'dog', u'terrier']",n02098286,west_highland_white_terrier.n.01
+761,"[u'cause', u'friend', u'person', u'someone']",n09859975,blind_date.n.01
+762,"[u'bed', u'couch', u'furniture']",n03115762,couch.n.03
+763,"[u'dancer', u'person', u'someone', u'whole']",n10098862,folk_dancer.n.01
+764,"[u'shop', u'store']",n02813544,bazaar.n.01
+765,"[u'plant', u'tree']",n12727101,pussy_willow.n.01
+766,"[u'area', u'hall', u'lobby', u'room']",n03809686,narthex.n.02
+767,"[u'area', u'construction', u'room']",n03751065,mess.n.05
+768,"[u'construction', u'shop', u'store']",n03249342,drugstore.n.01
+769,"[u'flora', u'flower', u'plant']",n11726707,rue_anemone.n.01
+770,"[u'plant', u'tree']",n12198286,chinese_parasol_tree.n.01
+771,"[u'bird', u'duck']",n01848123,teal.n.02
+772,"[u'area', u'bedroom', u'room', u'unit']",n02821627,bedroom.n.01
+773,"[u'bush', u'plant', u'shrub']",n12343480,fuchsia.n.01
+774,"[u'plant', u'tree']",n11772879,ivory_tree.n.01
+775,"[u'artist', u'person', u'someone']",n10455619,portraitist.n.01
+776,"[u'plant', u'tree']",n11757851,huisache.n.01
+777,"[u'blueberry', u'bush', u'flora', u'plant']",n12246232,blueberry.n.01
+778,"[u'area', u'room']",n02952585,canteen.n.04
+779,"[u'plant', u'tree']",n12765115,pepper_tree.n.01
+780,"[u'construction', u'factory', u'plant', u'structure']",n03887512,paper_mill.n.01
+781,"[u'boat', u'tower']",n04495843,tugboat.n.01
+782,"[u'person', u'pig', u'someone', u'soul']",n10609198,slattern.n.02
